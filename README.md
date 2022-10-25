@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone o Repositório
-$ https://github.com/matheusfalavigna/github-explorer.git
+$ git clone https://github.com/matheusfalavigna/github-explorer.git
 ```
 
 ```bash
